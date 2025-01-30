@@ -1,4 +1,4 @@
-# leetcode-75
+# leetcode-75-solutions
 
 ### How to Compile and Run a .cpp File
 
